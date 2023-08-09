@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(255, 242, 249) ;
+    box-sizing: border-box; 
+}
+
+.con-pad{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.product{
+    background-color: #FFF2F9;
+}
+.product-bg{
+    background-color: #323232;
+}
