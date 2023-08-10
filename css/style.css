@@ -1,6 +1,18 @@
+div{
+    font-family: 'Josefin Sans', sans-serif;
+}
+a{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
 body{
-    background-color: rgb(255, 242, 249) ;
+    background-color: white;
+    /* background-image: url(images/bg-pro.jpg); */
     box-sizing: border-box; 
+}
+.form-control::placeholder{
+    color: white;
+    
 }
 
 .con-pad{
@@ -11,9 +23,48 @@ body{
 .product{
     background-color: #FFF2F9;
 }
-.product-bg{
+.new-launch{
     background-color: #323232;
+}
+.product-bg{
+    background-color: #180A0A;
 }
 .candy-bg{
     background-color: #323232;
 }
+.product-title{
+    font-size: 20px;
+    color: black;
+}
+.product-des{
+    font-size: 12px;
+    color: black;
+}
+.cart-btn{
+    width: 100px;
+    height: 30px;
+    font-size: 12px;
+    background-color:  #FA4EAB;
+    border: none;
+}
+.fav-icon{
+    width: 50px;
+    height: 30px;
+}
+
+/* .cursor-icon-pre{
+    margin-left: -10px;
+}
+.cursor-icon-nxt{
+    margin-right: -10px;
+} */
+
+/* @media(max-width : 768px){
+
+    .cursor-icon-pre{
+        margin-left: -20px;
+    }
+    .cursor-icon-nxt{
+        margin-right: -20px;
+    }
+} */
