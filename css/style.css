@@ -7,7 +7,7 @@ a {
 }
 
 body {
-    background-color: white;
+    background-color: #f2f2f2;
     /* background-image: url(images/bg-pro.jpg); */
     box-sizing: border-box;
 }
@@ -22,7 +22,6 @@ body {
     padding-left: 0;
     padding-right: 0;
 }
-
 
 .new-launch {
     background-color: #323232;
