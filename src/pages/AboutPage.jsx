@@ -29,7 +29,7 @@ function About() {
             style={{ backgroundColor: "white" }}
           >
             <div className="row">
-              <div className="col-4 ">
+              <div className="col-4 m-auto">
                 <img src={main} className="img-fluid" alt="..." />
               </div>
               <div className="col-7 m-5">
